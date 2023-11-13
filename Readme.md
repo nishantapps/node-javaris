@@ -1,7 +1,11 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1093272554405376161/1173565821243641897/logo.png?ex=65646b57&is=6551f657&hm=c88ba4c5c18ec0d187a1e62f640b2ab63e0f6ead0b7030d5ad77683a141a12cb&" width="100px" height="100px">
-    <p style="font-style:bold;"><b>Node Javaris | A perfect AI companion</b></p>
+    <p style="font-style:bold;"><b>Node Javaris | A perfect Cli AI companion</b></p>
+    <img src="https://github.com/nishantapps/node-javaris/actions/workflows/npm-publish.yml/badge.svg">
+    <img src="https://github.com/nishantapps/node-javaris/actions/workflows/npm-publish-github-packages.yml/badge.svg">
+    <img src="https://img.shields.io/discord/1167478609905205430?logo=discord&label=Discord">
 </div>
+
 
 ### Installation
 
