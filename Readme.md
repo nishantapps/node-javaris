@@ -3,7 +3,7 @@
     <p style="font-style:bold;"><b>Node Javaris | A perfect Cli AI companion</b></p>
     <img src="https://github.com/nishantapps/node-javaris/actions/workflows/npm-publish.yml/badge.svg">
     <img src="https://github.com/nishantapps/node-javaris/actions/workflows/npm-publish-github-packages.yml/badge.svg">
-    <img src="https://img.shields.io/discord/1167478609905205430?logo=discord&label=Discord">
+    <a href="https://discord.gg/Fnt6qDrJGQ"><img src="https://img.shields.io/discord/1167478609905205430?logo=discord&label=Discord"></a>
 </div>
 
 
